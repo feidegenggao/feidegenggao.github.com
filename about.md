@@ -27,9 +27,8 @@ title: About Higher
     <a href="http://www.douban.com/people/53925073/" title="我的书影音" target="_blank">豆瓣&gt;&gt;</a>
     <a href="http://weibo.com/feidegenggao333" title="我的闲言碎语" target="_blank">新浪微博&gt;&gt;</a>
     <a href="http://www.github.com/feidegenggao" title="我的代码" target="_blank">Github&gt;&gt;</a>
-    <a href="http://twitter.com/#!/BeiYuu" title="又一处的闲言碎语" target="_blank">Twitter&gt;&gt;</a>
-    <a href="http://www.zhihu.com/people/beiyuu" title="我回答的问题" target="_blank">知乎&gt;&gt;</a>
-    <a href="http://www.markzhi.com/13989" title="我收集的图片" target="_blank">Markzhi&gt;&gt;</a>
+    <a href="http://www.zhihu.com/people/feidegenggao" title="我回答的问题" target="_blank">知乎&gt;&gt;</a>
+    <!--<a href="http://www.markzhi.com/13989" title="我收集的图片" target="_blank">Markzhi&gt;&gt;</a>-->
 </div>
 
 [Higher]: http://feidegenggao.github.com "Higher"
