@@ -5,14 +5,14 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            BeiYuu.com
-url:              http://beiyuu.com
+title:            Higher
+url:              http://feidegenggao.github.com
 feed:             /atom.xml
 author:
-    name:         BeiYuu
+    name:         Higher
     twitter:      twitter.com/beiyuu
-description:      "BeiYuu\'s Blog"
-author_info:      <a href="http://beiyuu.com/about">BeiYuu</a>
+description:      "Higher\'s Blog"
+author_info:      <a href="http://feidegenggao.github.com/about">Higher</a>
 
 copyright:
-    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; 2013
+    - Design by <a href="http://feidegenggao.github.com/about" title="Higher" target="_blank">Higher</a> &copy; 2013
