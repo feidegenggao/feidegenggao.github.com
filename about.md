@@ -2,7 +2,7 @@
 layout: page
 title: About Higher
 ---
-# [BeiYuu][]
+# [Higher][]
 
 您好，我是[Higher][]，欢迎光临我的博客，我目前是一名在校学生
 博客仍在不断完善中，感谢关注，如有问题可以给我<a href="" title="邮箱" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/feidegenggao333" title="飞得更高" target="_blank" class="external">微博</a>关注我。
@@ -21,7 +21,6 @@ title: About Higher
     $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js');
 </script>
 
-<!--
 <h3 class="about">More About Me</h3>
 <div class="about-link">
     <a href="" title="邮箱" target="_blank" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail&gt;&gt;</a>
@@ -32,6 +31,5 @@ title: About Higher
     <a href="http://www.zhihu.com/people/beiyuu" title="我回答的问题" target="_blank">知乎&gt;&gt;</a>
     <a href="http://www.markzhi.com/13989" title="我收集的图片" target="_blank">Markzhi&gt;&gt;</a>
 </div>
--->
 
 [Higher]: http://feidegenggao.github.com "Higher"
