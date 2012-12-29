@@ -15,6 +15,16 @@ title: Wiki
         <ul>
         <li><a href="http://gitref.cyj.me/zh/">Git参考手册</a>Git参考手册</li>
         </ul>
+
+        <li>GNU make</li>
+        <ul>
+        <li><a href="http://www.yayu.org/book/gnu_make/index.html#content">GNU make中文手册</a>GNU make中文手册</li>
+        </ul>
+
+        <li>Github Blog</li>
+        <ul>
+        <ul>
+        <li><a href="http://jekyllbootstrap.com/usage/jekyll-theming.html">Github blog modify thems</a>Github blog modify thems</li>
      </ul>
 </div>
 <script type="text/javascript">
