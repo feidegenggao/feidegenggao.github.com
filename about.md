@@ -4,8 +4,7 @@ title: About Higher
 ---
 # [Higher][]
 
-您好，我是[Higher][]，欢迎光临我的博客，我目前是一名在校学生
-博客仍在不断完善中，感谢关注，如有问题可以给我<a href="" title="邮箱" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/feidegenggao333" title="飞得更高" target="_blank" class="external">微博</a>关注我。
+您好，我是[Higher][]，欢迎光临我的博客，我目前是一名在校学生。博客仍在不断完善中，感谢关注，如有问题可以给我<a href="" title="邮箱" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/feidegenggao333" title="飞得更高" target="_blank" class="external">微博</a>关注我。
 
 <!--
 最近看过：
