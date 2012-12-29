@@ -23,8 +23,8 @@ title: Wiki
 
         <li>Github Blog</li>
         <ul>
-        <ul>
         <li><a href="http://jekyllbootstrap.com/usage/jekyll-theming.html">Github blog modify thems</a>Github blog modify thems</li>
+        </ul>
      </ul>
 </div>
 <script type="text/javascript">
