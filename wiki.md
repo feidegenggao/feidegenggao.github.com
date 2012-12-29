@@ -3,12 +3,17 @@ layout: page
 title: Wiki
 ---
 <div class="wiki">
-<h2>Javascript</h2>
+<h2>效率工具</h2>
     <ul class="hide">
-        <li><a href="http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/" title="Javscript设计模式">Javscript设计模式</a></li>
-        <li>JSON工具：</li>
+        <li><a href="http://markdown.tw/" title="Markdown语法">Markdown语法</a></li>
+        <li>VIM</li>
         <ul>
-            <li><a href="http://www.jsonlint.com/">JSONLint</a> - The JSON Validator</li>
+            <li><a href="http://wiki.hotoo.me/Vim.html">Vim - 闲耘</a>Vim - 闲耘</li>
+        </ul>
+
+        <li>Git</li>
+        <ul>
+        <li><a href="http://gitref.cyj.me/zh/">Git参考手册</a>Git参考手册</li>
         </ul>
      </ul>
 </div>
