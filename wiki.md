@@ -8,22 +8,22 @@ title: Wiki
         <li><a href="http://markdown.tw/" title="Markdown语法">Markdown语法</a></li>
         <li>VIM</li>
         <ul>
-            <li><a href="http://wiki.hotoo.me/Vim.html">Vim - 闲耘</a>Vim - 闲耘</li>
+            <li><a href="http://wiki.hotoo.me/Vim.html" title="Vim - 闲耘">Vim - 闲耘</a></li>
         </ul>
 
         <li>Git</li>
         <ul>
-        <li><a href="http://gitref.cyj.me/zh/">Git参考手册</a>Git参考手册</li>
+        <li><a href="http://gitref.cyj.me/zh/" title="Git参考手册">Git参考手册</a></li>
         </ul>
 
         <li>GNU make</li>
         <ul>
-        <li><a href="http://www.yayu.org/book/gnu_make/index.html#content">GNU make中文手册</a>GNU make中文手册</li>
+        <li><a href="http://www.yayu.org/book/gnu_make/index.html#content" title="GNU make中文手册">GNU make中文手册</a></li>
         </ul>
 
         <li>Github Blog</li>
         <ul>
-        <li><a href="http://jekyllbootstrap.com/usage/jekyll-theming.html">Github blog modify thems</a>Github blog modify thems</li>
+        <li><a href="http://jekyllbootstrap.com/usage/jekyll-theming.html" title="Github blog modify thems">Github blog modify thems</a></li>
         </ul>
      </ul>
 </div>
