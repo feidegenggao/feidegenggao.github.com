@@ -8,7 +8,7 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 # [{{page.title}}][self]
 2012-12-29 by {{site.author_info}}
 
-[self] {{page.url}} {{page.title}}
+[self]: {{page.url}} ({{page.title}})
 
 ##0、感谢
 首先，我要感谢，在我搭建Github博客过程中帮助过我的人。
@@ -22,12 +22,14 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 
 ##1、显示代码
 我迫不及待的要贴上一段helloworld。测试一下代码显示功能如何。
+
     #include    <stdio.h>
     int main(void)
     {
         printf("Hello world!\n");
         return 0;
     }
+
 ##2、插入一张图片
 感谢您的关注，我的Email:![Higher email](/images/myemail.gif)
 
