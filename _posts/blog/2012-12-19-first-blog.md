@@ -5,7 +5,7 @@ category: blog
 description: 2012-12-29 这是我在github的博客上的第一篇博客。展示各种排版格式的使用方法
 ---
 
-#[{{page.title}}][self]
+# [{{page.title}}][self]
 2012-12-29 by {{site.author_info}}
 
 [self] {{page.url}} {{page.title}}
@@ -24,12 +24,12 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 我迫不及待的要贴上一段helloworld。测试一下代码显示功能如何。
     #include    <stdio.h>
     int main(void)
-    \{
+    {
         printf("Hello world!\n");
         return 0;
-    \}
+    }
 ##2、插入一张图片
-感谢您的关注，我的Email：![Higher email](/image/myemail.gif)
+感谢您的关注，我的Email:![Higher email](/images/myemail.gif)
 
 ##3、结语
 ###3.1不要迷茫，不要彷徨。
