@@ -2,18 +2,22 @@
 layout: post
 title: 我的第一篇博客
 category: blog
-description:2012-12-29 这是我在github的博客上的第一篇博客。展示各种排版格式的使用方法
+description: 2012-12-29 这是我在github的博客上的第一篇博客。展示各种排版格式的使用方法
 ---
+
 #[{{page.title}}][self]
-[self] {{page.url}} {{page.title}}
 2012-12-29 by {{site.author_info}}
+
+[self] {{page.url}} {{page.title}}
 
 ##0、感谢
 首先，我要感谢，在我搭建Github博客过程中帮助过我的人。
 
 *我是从我的好友[Smartegg][]处听说Github可以搭建博客的。
+
 *[阮一峰][ruanyifeng]的博客是我看到的第一篇搭建的过程简介。我按照他的指导，
 成功搭建了一个简易的博客。
+
 *[BeiYuu][]美观雅致、简洁好用的style深深吸引了我。于是我直接fork了他的模板。谢谢！
 
 ##1、显示代码
