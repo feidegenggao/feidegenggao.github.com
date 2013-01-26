@@ -87,8 +87,6 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 #mycard .name a.link-icon:hover {text-decoration:none}
 #mycard .blog{background-color:#D6B301}
 #mycard .blog .link-icon span {background-position:-76px -15px;}
-#mycard .netProgram{background-color:#D6B301}
-#mycard .netProgram.link-icon span {background-position:-76px -15px;}
 #mycard .project{background-color:#55B00D}
 #mycard .project .link-icon span {background-position:-10px -15px;}
 #mycard .wiki{background-color:#00B5E2}
