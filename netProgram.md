@@ -1,6 +1,6 @@
 ---
 layout: page
-title: netProgram
+title: NetProgram
 ---
 <div class="category">
     <ul>
