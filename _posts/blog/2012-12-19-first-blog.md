@@ -41,28 +41,26 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 ##Tips:
 ###在本博客中如何添加新的栏目
 比如，我想在此基础上增加C/C++栏目如何操作？
-*首先，切换到该博客的根目录，新建c_c++.md，模仿现存的栏目md撰写新的md文档。
-这个地方需要说明一点，显示名称是C/C++，而博客内部使用名称是c_c++，因为没法新建
-C/C++.md这样的文件，也许会有别的原因让你这么做。
-本步骤，是在根目录新建文件，之后更改两个地方：title更改为显示名称，第7行的循环
-策略的时候更改为内部使用名称；
+* 首先，切换到该博客的根目录，新建cplusplus.md，模仿现存的栏目md撰写新的md文档。
+本步骤，是在根目录新建文件，之后更改两个地方：title更改为cplusplus，第7行的循环
+策略的时候更改为cplusplus；
 
-*之后，在_layouts/page.html中的
+* 之后，在_layouts/page.html中的
 
     <div class="nav right">
 
 容器内在你想的位置添加如下内容：
 
-    <a href="/c_c++" title="C/C++">C/C++</a>
+    <a href="/cplusplus" title="C/C++">C/C++</a>
 
-*最后，在_posts目录下新建c_c++文件夹，从旧的栏目中拷贝template.md到本目录。修改
-template.md。仅需修改一处：category: 为category: c_c++（第4行）
+* 最后，在_posts目录下新建cplusplus文件夹，从旧的栏目中拷贝template.md到本目录。修改
+template.md。仅需修改一处：category: 为category: cplusplus（第4行）
 
 *总结一下，新加本栏目后的git状态如下：
 
     #modified:   _layouts/page.html
-    #new file:   _posts/c_c++/template.md
-    #new file:   c_c++.md
+    #new file:   _posts/cplusplus/template.md
+    #new file:   cplusplus.md
 
 ***
 **相信水滴石穿的力量！**
