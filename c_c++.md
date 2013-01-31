@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C/C++ 
+title: c_c++ 
 ---
 <div class="category">
     <ul>
