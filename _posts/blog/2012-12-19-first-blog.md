@@ -41,15 +41,12 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 ##Tips:
 ###在本博客中如何添加新的栏目?
 比如，我想在此基础上增加C/C++栏目如何操作？
+
 * 首先，切换到该博客的根目录，新建cplusplus.md，模仿现存的栏目md撰写新的md文档。
 本步骤，是在根目录新建文件，之后更改两个地方：title更改为cplusplus，第7行的循环
-策略的时候更改为cplusplus；
+策略的时候更改为cplusplus。
 
-* 之后，在_layouts/page.html中的
-
-
-    <div class="nav right">
-
+* 之后，在_layouts/page.html中的`<div class="nav right">`
 容器内在你想的位置添加如下内容：
 
     <a href="/cplusplus" title="C/C++">C/C++</a>
