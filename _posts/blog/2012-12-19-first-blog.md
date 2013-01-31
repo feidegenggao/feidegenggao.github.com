@@ -47,9 +47,7 @@ description: 2012-12-29 这是我在github的博客上的第一篇博客。展�
 策略的时候更改为cplusplus。
 
 * 之后，在_layouts/page.html中的`<div class="nav right">`
-容器内在你想的位置添加如下内容：
-
-    <a href="/cplusplus" title="C/C++">C/C++</a>
+容器内在你想的位置添加如下内容：`<a href="/cplusplus" title="C/C++">C/C++</a>`
 
 * 最后，在_posts目录下新建cplusplus文件夹，从旧的栏目中拷贝template.md到本目录。修改
 template.md。仅需修改一处：category: 为category: cplusplus（第4行）
