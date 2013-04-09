@@ -36,7 +36,7 @@ grep \[-A\] \[-B\] \[--color=auto\] '搜索字符串' filename
 
 	 #ifconfig | grep 'lo' -A 2 -B 3  
 结果如下：
-![grepAB](images/tips/2013-04-09-grep-usage/grepAB.PNG)  
+![grepAB](/images/tips/2013-04-09-grep-usage/grepAB.PNG)  
 如何查找多个文件？就在filename处替换成多个文件名即可，比如`grep 'class' *.cpp *.h`即可。  
 如何递归查找本目录？`grep 'class' -r .`  
 
