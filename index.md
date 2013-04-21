@@ -13,6 +13,41 @@ layout: page
     {% endfor %}
     </ul>
 
+    <ul class="index-left">
+    {% for post in site.categories.netProgram%}
+        <li>
+            <h2>
+            	<a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <span>{{ post.description }}</span>
+        </li>
+    {% endfor %}
+    </ul>
+
+    <ul class="index-left">
+    {% for post in site.categories.cplusplus%}
+        <li>
+            <h2>
+            	<a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <span>{{ post.description }}</span>
+        </li>
+    {% endfor %}
+    </ul>
+
+    <ul class="index-left">
+    {% for post in site.categories.tips%}
+        <li>
+            <h2>
+            	<a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <span>{{ post.description }}</span>
+        </li>
+    {% endfor %}
+    </ul>
+
+
+
     <ul class="index-mid"> </ul>
 
     <ul class="index-right">
