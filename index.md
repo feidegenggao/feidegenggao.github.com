@@ -8,7 +8,7 @@ layout: page
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <span>"[博客]"{{ post.description }}</span>
+            <span>[分类：blog]{{ post.description }}</span>
         </li>
     {% endfor %}
     </ul>
@@ -19,7 +19,7 @@ layout: page
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <span>{{ post.description }}</span>
+            <span>[分类：netProgram]{{ post.description }}</span>
         </li>
     {% endfor %}
     </ul>
@@ -30,7 +30,7 @@ layout: page
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <span>{{ post.description }}</span>
+            <span>[分类：cplusplus]{{ post.description }}</span>
         </li>
     {% endfor %}
     </ul>
@@ -41,7 +41,7 @@ layout: page
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <span>{{ post.description }}</span>
+            <span>[分类：tips]{{ post.description }}</span>
         </li>
     {% endfor %}
     </ul>
