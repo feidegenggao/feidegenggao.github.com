@@ -48,6 +48,7 @@ layout: page
 
 
 
+<!--
     <ul class="index-mid"> </ul>
 
     <ul class="index-right">
@@ -60,6 +61,7 @@ layout: page
         </li>
     {% endfor %}
     </ul>
+-->
 </div>
 
 <script type="text/javascript">
