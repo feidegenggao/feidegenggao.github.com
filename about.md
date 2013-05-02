@@ -9,7 +9,6 @@ title: About Higher
 <!--
 最近看过：
 <div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="650" height="505" id="passing" > <param name="movie" value="http://www.douban.com/doushow/beiyuu/collection_latest_movie|book_15_5_medium_logo_noself/doushow.swf" /> <param name="quality" value="high" /> <param name="scale" value="noscale"/> <param name="align" value="tl"/> <param name="wmode" value="transparent"/> <embed src="http://www.douban.com/doushow/beiyuu/collection_latest_movie|book_15_5_medium_logo_noself/doushow.swf" wmode="transparent" quality="high" width="650" height="505" name="passing" scale="noscale" align="tl" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> </object></div>
--->
 
 <div id="disqus_container"> 
     <div id="disqus_thread"></div>
@@ -19,6 +18,7 @@ title: About Higher
     window.disqus_shortname = 'beiyuu'; // required: replace example with your forum shortname
     $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js');
 </script>
+-->
 
 <h3 class="about">More About Me</h3>
 <div class="about-link">
