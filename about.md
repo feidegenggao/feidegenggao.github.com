@@ -4,7 +4,7 @@ title: About Higher
 ---
 # [Higher][]
 
-您好，我是[Higher][]，欢迎光临我的博客，目前我是一名在校学生。感谢您的关注。您可以给我<a href="" title="邮箱" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/feidegenggao333" title="飞得更高" target="_blank" class="external">微博</a>关注我，或者<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=907299935&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:907299935:51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+您好，我是[Higher][]，欢迎光临我的博客，目前我是一名在校学生。感谢您的关注。您可以给我<a href="" title="邮箱" onclick="alert('liuxiaofei333 at Gmail dot com，你懂得！');return false;">eMail</a>，或者在<a href="http://weibo.com/feidegenggao333" title="飞得更高" target="_blank" class="external">微博</a>关注我，或者<a target="_blank" href="http://sighttp.qq.com/authd?IDKEY=7df4d70bf843ade206b5db9383423fc7e4229b837a91d0d7"><img border="0"  src="http://wpa.qq.com/imgd?IDKEY=7df4d70bf843ade206b5db9383423fc7e4229b837a91d0d7&pic=51" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
 
 <!--
 最近看过：
